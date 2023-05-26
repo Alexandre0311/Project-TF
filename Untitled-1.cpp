@@ -1,2 +1,4 @@
 #include<iostream>
-std::cout<<"chanchito feliz";
+int main(){std::cout<<"chanchito feliz";
+return 0;
+}
